@@ -46,28 +46,6 @@ Hospital readmissions pose significant challenges by driving up healthcare costs
 
 ---
 
-## Notebook Structure
-
-- **Section 1:** Data Exploration and Cleaning  
-  _Includes data loading, cleaning steps, and initial EDA visualizations._
-  
-- **Section 2:** Feature Engineering  
-  _Transforms raw data into features suitable for clustering and subsequent modeling._
-
-- **Section 3:** Clustering and Dimensionality Reduction  
-  _Applies HDBSCAN on scaled data and visualizes the clusters using PCA._
-
-- **Section 4:** Cluster Evaluation and SHAP Analysis  
-  _Evaluates the performance of clustering models and provides detailed subgroup profiles using SHAP._
-
-- **Section 5:** Business Insights and Recommendations  
-  _Summarizes findings in non-technical language and outlines actionable business strategies._
-
-- **Appendix:**  
-  _Contains detailed technical evidence, performance metrics, additional visualizations (e.g., heatmaps), and code snippets for further reference._
-
----
-
 ## Quick Start
 
 To begin, ensure all required libraries are installed:
