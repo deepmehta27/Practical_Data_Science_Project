@@ -1,7 +1,7 @@
 # Optimizing Hospital Readmission Reduction Using Patient Clustering
 
 **Author:** Deep Manish Mehta  
-**Date:** April 1, 2025  
+**Date:** April 29, 2025  
 **Course:** Practical Data Science – MS in Data Science, Pace University
 
 ---
