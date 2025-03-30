@@ -1,5 +1,3 @@
-Below is a well-structured markdown template for your project notebook, designed to introduce your work clearly and concisely. This starting markdown integrates details from your code and overall project goals:
-
 ---
 
 # Optimizing Hospital Readmission Reduction Using Patient Clustering
