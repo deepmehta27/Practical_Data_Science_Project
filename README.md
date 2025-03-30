@@ -54,8 +54,6 @@ To begin, ensure all required libraries are installed:
 !pip install pandas numpy matplotlib seaborn scikit-learn hdbscan shap
 ```
 
-Then, load and preprocess the data as described in Section 1. For full details, refer to the subsequent cells in this notebook.
+Then, load and preprocess the data as described. For full details, refer to the subsequent cells in this notebook.
 
 ---
-
-This markdown provides a clear entry point to the notebook, setting the stage for a detailed exploration of the data science project and its implications for reducing hospital readmissions.
