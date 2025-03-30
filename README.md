@@ -1,5 +1,3 @@
----
-
 # Optimizing Hospital Readmission Reduction Using Patient Clustering
 
 **Author:** Deep Manish Mehta  
