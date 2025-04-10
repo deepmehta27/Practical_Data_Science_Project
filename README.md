@@ -98,7 +98,6 @@ This dual approach not only highlights the critical characteristics of high-risk
 ### Prerequisites
 
 - **Python 3.7+**  
-- **Recommended Packages:** (See [requirements.txt](./requirements.txt) for a detailed list)
   - numpy
   - pandas
   - scikit-learn
